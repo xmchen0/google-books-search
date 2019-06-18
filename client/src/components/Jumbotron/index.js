@@ -10,7 +10,6 @@ function Jumbotron() {
           <a className="white" target="_blank" rel="noopener noreferrer" href="http://developers.google.com/books/">
           </a>
         </div>
-      
     </div>
   );
 }
