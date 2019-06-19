@@ -1,6 +1,7 @@
 import React from "react";
 import Thumbnail from "../Thumbnail";
 import { Container, Row, Col } from "../Grid";
+import "./style.css"
 
 
 // BookList renders a bootstrap list item
@@ -32,7 +33,7 @@ export function BookList({children}) {
                 href={this.props.link}
                 rel="noopener noreferrer"
               >
-                Go to book!
+                Read more
               </a>
             </Col>
           </Row>

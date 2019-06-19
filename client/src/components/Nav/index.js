@@ -10,7 +10,7 @@ function Nav() {
       </a>
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
-            <a className="nav-link navbar-brand" id="savedLink" href="/bookshelf"><i class="fa fa-bookmark" aria-hidden="true"></i> Borrow Books</a>
+            <a className="nav-link navbar-brand" id="savedLink" href="/bookshelf"><i class="fa fa-bookmark" aria-hidden="true"></i> Borrowed Books</a>
           </li>
         </ul>
       </nav>
